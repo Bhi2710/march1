@@ -1,0 +1,65 @@
+body{
+    margin: 0px;
+    background-color: gray;
+}
+h1{
+    text-align: center;
+}
+.container{
+    background-color: whitesmoke;
+    height: 600px;
+    width: 600px;
+    margin-top: 80px;
+    margin-left: 500px;
+}
+.firstname {
+    margin-top: 30px;
+    width: 200px;
+    height: 20px;
+    font-size: 14px;
+    margin-left: 60px;
+}
+.lastname {
+    margin-top: 20px;
+    width: 200px;
+    height: 20px;
+    font-size: 14px;
+    margin-left: 40px;
+}
+.mail{
+    margin-top: 40px;
+    width: 450px;
+    height: 20px;
+    margin-left: 60px;
+    font-size: 14px;
+}
+.password{
+    margin-top: 40px;
+    width: 450px;
+    height: 20px;
+    font-size: 14px;
+    margin-left: 60px;
+}
+.confirm_password{
+    margin-top: 40px;
+    width: 450px;
+    height: 20px;
+    font-size: 14px;
+    margin-left: 60px;
+}
+.checkbox{
+    margin-top: 50px;
+    margin-left: 60px; 
+}
+button{
+    padding: 7px;
+    width: 250px;
+    margin-top: 40px;
+    margin-left: 160px;
+}
+.use{
+    color: rgb(31, 248, 31);
+}
+.privacy{
+    color: rgb(32, 240, 32);
+}
